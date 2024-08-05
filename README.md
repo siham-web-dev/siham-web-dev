@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siham Heddi</h1>
-<h3 align="center">Back-End Developer from Algeria</h3>
+<h3 align="center">Full stack Developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sihamheddi23&label=Profile%20views&color=0e75b6&style=flat" alt="sihamheddi23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sihamheddi23" alt="sihamheddi23" /></a> </p>
 
-- 🌱 I’m currently learning **Express , nestjs , docker , automated testing**
+- 🌱 I’m currently learning **machine learning**
 
-- 👯 I’m looking to collaborate on **Saas projects**
+- 👯 I’m looking to collaborate on **Saas projects** using these technologies => reactjs, nodejs
 
 - 👨‍💻 All of my projects are available at [https://sihamheddi23.github.io/portfolio//public_html/index.html](https://sihamheddi23.github.io/portfolio//public_html/index.html)
 
