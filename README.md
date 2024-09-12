@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Saas projects** using these technologies => reactjs, nodejs
 
-- 👨‍💻 All of my projects are available at [https://sihamheddi23.github.io/portfolio//public_html/index.html](https://sihamheddi23.github.io/portfolio//public_html/index.html)
+- 👨‍💻 All of my projects are available at [https://sihamheddi23.github.io/portfolio/
 
 - 📫 How to reach me **siham.heddi.dev@gmail.com**
 
