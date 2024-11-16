@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siham Heddi</h1>
 <h3 align="center">Full stack Developer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sihamheddi23&label=Profile%20views&color=0e75b6&style=flat" alt="sihamheddi23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siham-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sihamheddi23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sihamheddi23" alt="sihamheddi23" /></a> </p>
 
