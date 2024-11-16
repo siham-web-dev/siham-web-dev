@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siham Heddi</h1>
 <h3 align="center">Full stack Developer from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sihamheddi23" alt="sihamheddi23" /></a> </p>
-
 - 🌱 I’m currently learning **machine learning**
 
 - 👯 I’m looking to collaborate on **Saas projects** using these technologies => reactjs, nodejs
