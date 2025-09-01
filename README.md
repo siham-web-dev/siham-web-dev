@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siham Heddi</h1>
 <h3 align="center">Full stack Developer from Algeria</h3>
 
-- 🌱 I’m currently learning **cloud computing** , **computer networking**, **linux** to be devops engineer in the future
+- 🌱 I’m currently learning **linux** 
 
 - 👯 I’m looking to collaborate on **Saas projects** using these technologies => reactjs, nodejs
 
