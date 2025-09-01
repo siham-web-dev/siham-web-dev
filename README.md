@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **linux** 
 
-- 👯 I’m looking to collaborate on **Saas projects** using these technologies => reactjs, nodejs
+- 👯 I’m looking to collaborate on **Saas projects** using these technologies => reactjs, express.js
 
 - 👨‍💻 All of my projects are available at <a href="https://www.sihamheddi.online">sihamheddi.online </a>
 
